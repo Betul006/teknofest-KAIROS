@@ -1,4 +1,4 @@
-## **Drone Engelden Kaçış Sistemi (Autonomous Obstacle Avoidance)**
+# Drone Engelden Kaçış Sistemi (Autonomous Obstacle Avoidance)
 Bu proje, otonom hava araçlarının (İHA) çevresel farkındalığını artırarak, dinamik engelleri gerçek zamanlı algılamasını ve bu engellerden güvenli manevralarla kaçmasını sağlayan uçtan uca bir Yazılım Mimarisi geliştirme sürecini kapsamaktadır. Proje, fiziksel riskleri minimize etmek adına Gazebo 3D Simülasyon ve SITL (Software In The Loop) ortamlarında test edilmektedir.
 
 # Katmanlı Mimari (Layered Architecture)
@@ -80,6 +80,7 @@ MAVLink → SITL entegrasyonu.
 **🛠️ Kurulum ve Kullanım**
 Bash
 pip install -r requirements.txt
+
 
 
 

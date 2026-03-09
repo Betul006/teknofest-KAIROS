@@ -23,7 +23,7 @@ Gerçek Zamanlı Algılama: OpenCV ile yakalanan kareler YOLOv8 modeline aktarı
 
 **Otonom Manevra:** Risk eşik değerini aşarsa, PyMavlink üzerinden sanal otopilota kaçış komutları (sağ, sol, orta) gönderilir.
 
-#👥 Takım ve Görev Dağılımı
+# 👥 Takım ve Görev Dağılımı
 
 **👩‍💻 BETÜL**
 
@@ -80,6 +80,7 @@ MAVLink → SITL entegrasyonu.
 **🛠️ Kurulum ve Kullanım**
 Bash
 pip install -r requirements.txt
+
 
 
 

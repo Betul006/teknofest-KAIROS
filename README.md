@@ -57,7 +57,7 @@ Overlay Gösterimi ve Sözleşme Doğrulaması.
 
 Demo senaryoları, engel testleri ve video kayıt süreçleri.
 
-**👨‍💻 YÜŞA**
+**👨‍💻 YUŞA**
 
 Veri nesnesi sözleşmelerinin belirlenmesi ve örnek veri yapılarının (JSON/Class) oluşturulması.
 
@@ -80,6 +80,7 @@ MAVLink → SITL entegrasyonu.
 **🛠️ Kurulum ve Kullanım**
 Bash
 pip install -r requirements.txt
+
 
 
 
